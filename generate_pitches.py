@@ -6,12 +6,13 @@ import gpt_2_simple as gpt2
 sess = gpt2.start_tf_sess()
 gpt2.load_gpt2(sess)
 
-while True:
-    with open('original_pitches.txt') as out:
+for _ in range(10000):
+    with open('io/original_pitches.txt') as out:
         f = io.StringIO()
         with redirect_stdout(f):
             gpt2.generate(sess,
                 length=1000,
+                nsamples=10,
                 top_p=0.2,
                 temperature=2.0,
             )
@@ -31,4 +32,5 @@ while True:
                 line = line[0].upper() + line[1:]
                 if line[-1] == '.':
                     line = line[:-1]
-                print(line)
+                with open('io/pitches.txt', 'a+') as g:
+                    g.write(line)
