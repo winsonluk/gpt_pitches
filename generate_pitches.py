@@ -1,3 +1,4 @@
+import gc
 import io
 import re
 from contextlib import redirect_stdout
@@ -7,6 +8,7 @@ sess = gpt2.start_tf_sess()
 gpt2.load_gpt2(sess)
 
 for _ in range(10000):
+    gc.collect()
     with open('io/original_pitches.txt') as out:
         f = io.StringIO()
         with redirect_stdout(f):
