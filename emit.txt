@@ -1,0 +1,938 @@
+Loading checkpoint checkpoint/run1/model-10000
+top_p: 0.1
+temp: 0.6
+Results: 0
+top_p: 0.1
+temp: 0.8
+Results: 0
+top_p: 0.1
+temp: 1.0
+Kickstarter for the Music Industry
+Kickstarter for physical products.
+Quantified, curated, and accessible wine.
+A social marketplace for fashion
+Beta testing platform for websites
+Lending Club for institutional investors
+Synchronized video chat for Facebook and Twitter.
+SaaS employee engagement and leadership development
+Big Data Analytics for the Enterprise
+We make it easy to add vector icons and social logos to your website.
+Tell stories. Help people make decisions.
+Learn intelligent and actionable social intelligence from your data.
+Get detailed health and fitness information.
+Results: 13
+top_p: 0.1
+temp: 1.2000000000000002
+The best way to buy a new car online.
+The hiring automation platform built
+Results: 2
+top_p: 0.1
+temp: 1.4
+A single platform for Talent Acquisition and Workforce Optimization
+Your instantaneous personal Panic Button
+Location based fitness community.
+Online Business Promotion Solutions
+SCR for Public Relations and Digital Marketing
+Dentist services for dental patients
+Offers Discount Card with one click
+Refined Nutritional Supplement and Flavour Branding
+Seamless Location Based Shopping
+India's Choice for Local Services
+Online Business Promotion Solutions
+Discovery of products and services
+Easy BIAS and Cloud Data Integration
+Create a Choose Online Reporter
+Social Network based on geolocation
+Instagram of the modeling industry
+Seamless Location Based Search for Consumers and Providers
+Retail Management and Analytics
+We are changing the way that teams work.
+Results: 19
+top_p: 0.1
+temp: 1.6
+Results: 0
+top_p: 0.1
+temp: 1.8000000000000003
+Online car rental, saving the world time
+Everything you need to manage your patents.
+Blooming intelligent hair care products for black women
+Fresh product that inspires curiosity.
+Find and share the people you love
+Legal recruiting for startups and SMEs
+Mint for micro finance providers
+Global Content Marketing Platform
+Community's Virtual Marketplace
+Google Now for the 21st Century
+Group Up with people locally and globally based on your interests.
+A profitable community marketplace for people and expats in the UK.
+Top based web and mobile marketplace for apps.
+Helping DIY marketers get their recipes done.
+Unique product development studio working with startups
+Solving the lack of women in the news
+Helping SMEs navigate the intersection of life and technology.
+SurveyMonkey for producing reliable data.
+Get a workable space for working
+Connecting Minimalists to the Right People at Right Time
+Making it easy to organize your holidays with your friends
+Fashionable, patterned tights and apparel for women.
+Next generation messaging for mobile
+It's an archive of your past, present and future events.
+Services for Real Estate Professionals
+Drinking water as a social game.
+SaaS based Online Learning Platform
+Cloud operating system for business
+Create your personal and unique online library of books.
+2nd Generation Mobile App Platform
+Connecting companies with students
+Customized contract Hawaiian Babying
+Tully Crafted by Topless Rabbits
+Internet Marketing for Small Businesses
+LA's Ultimate Art and Culture Magazine
+Addictively Simple Dose Tracking
+Recruitment from Social Networks
+Subscription American Biz Magazine
+Try before you buy service, for
+Results: 39
+top_p: 0.1
+temp: 2.0
+Share. Track. Comeroast to the World.
+Innovative Liquid Fusion Technology
+Discover new music, book new friends
+With each note you write, we capture it.
+Cloud Orchestration for Social Media
+Writing just got a whole lot easier.
+Predictive Social Intelligence for Clients and Agencies
+B2B advertising that builds relationships between artists and venues
+Relationships that build success
+PRT software for interaction marketing.
+Find and understand what you need to work on.
+We build software that is better for business.
+Web Development and Investment Banking.
+Interactive Consulting and Project Management
+Getting started with realtime publishing made simple.
+Streetwear for techie lookin to buy
+Funding for artists and music labels
+Mobile SDK for creating native iOS apps.
+Building the world's best press page.
+Recipe Sharing for Craft Brew Industry
+Custom corporate packaging and transit technology
+Enterprise Social Media Management
+Zomato for Creative Service Providers
+Smart management for cryptocurrency mining projects
+Learn intelligence and meet industry trends
+Making leasing infrastructure easy
+Get users working on projects that matter.
+Measure and Sell Indoor Outdoor Advertising
+Mobile users contributing to charity
+Publishing advanced search technologies
+Making SEO and social media smart
+Challenge accepted project tasks and receive prizes.
+SEO and Content Marketing Automation for Small Businesses
+Online retail store for black women's footwear.
+Customer Engagement for your Local Business
+Private gyms for anyone, anywhere.
+Next Generation Mobile Attendance and Social Networking Platform
+Group gaming for iPad and Android.
+Gig bags and backpacks with customized sizes and styles.
+Report Scripts for Production Companies
+The virtual manager is the key to your business.
+Skype style messaging for businesses
+Academic Networking for the Private Market.
+Your picture is worth 1,000 words
+Found out what web technologies are capable of and how they connect.
+New episodes of radio made simple.
+Reporting for the art industry with advanced analytics.
+Twilio for design and social media.
+The Cleverest Way to Get Your Goals Done
+Using Small Team Business to Scale Big Challenges
+Amazon for mission related businesses
+BitCrowdfunding for medical and life events
+green incubator with budgeting and with
+Results: 53
+top_p: 0.2
+temp: 0.6
+Results: 0
+top_p: 0.2
+temp: 0.8
+Interactive training for Google Apps.
+Designing the future of business apps for the masses
+Interactive 3D weight loss environment
+Mobile crowdfunding for charitable causes.
+Results: 4
+top_p: 0.2
+temp: 1.0
+Results: 0
+top_p: 0.2
+temp: 1.2000000000000002
+snapchat and share your pics to unlock with question and answer
+In one click, start selling your new stuff online
+One stop shop for women's underwear
+Interactive advices for customers
+The best way to buy and sell used furniture online
+We make it easy to organize your holidays with your friends
+Social Intelligence and RoadBlogging tool for Traffic
+A new way to fund non profit organizations.
+Assessment and management tools for ESRI
+Results: 9
+top_p: 0.2
+temp: 1.4
+Create the websites of your dreams with CreativeCloud.
+World's first freelancing marketplace
+Reinventing gift gifting and gift giving
+Building the world's best news product
+Modern product design and development
+Finding the people you need when you need them.
+Creating the world's first open source distributed database
+Authenticating and Verifying Real Images
+Storify for fashion brands, stores and their stores.
+Real payments for local merchants
+Save, Share and Discover data that is important to you
+Empowering artists and their fans
+Google AdWords for outdoor billboards
+Local marketing and SEO platform
+Localized Google Earth for Agriculture
+Results: 15
+top_p: 0.2
+temp: 1.6
+Increasing sales and usage of mobile applications
+Tactical Tac Tactical Assault Wearable Tech
+Reduce Operating System Requirements
+Groceries delivered in minutes.
+Operating system for community venues
+TMLC helps small businesses grow.
+It was a selling site at a campus level.
+Hotel units double as their headquarters.
+Design your own online vocabulary
+Advocacy and politics app for consumers.
+CRM ERP for small and medium size businesses.
+Crowdsourced Reservation Listing Service
+Contemporary education for communities
+Get anybody, anywhere with a vehicle.
+Mobile messaging platform for organizations and individuals
+Media Fund for Content Creators
+Equity Crowdfunding Platform for Medical Startups
+Online business management solution for local businesses
+Get consumers talking with their shopping decisions.
+Nationwide and Regional Liquor Delivery Service
+Cloud based workflow and project management for construction teams.
+An interactive wine box and travel companion.
+Kickstarter for intellectual property
+Learn anyone, anywhere with the WORD of GOD
+Entrepreneurial, management and investment advisory services.
+Make anything run like a server.
+SaaS Project Management Software with Rails, TDD and Machine Learning
+Empowering anyone to solve medical mysteries.
+The fastest, easiest way to send and share video and large files
+Small, simple, useful mobile apps.
+Small, simple, useful mobile apps.
+Lingerie that engrosses fashion brands and their models
+Share your pictures and memories
+Entrepreneurial Business Analysis
+Online Box Office and Conference Room Delivery
+Networking tool for business owners and marketers
+Bringing back the fun to meeting new people.
+Digital product development and design
+A marketplace for technical consultants
+Empowering Parents, Students, Teachers and Teens
+Optimizing each Team's Operations
+Optimizing each team's operations
+Results: 42
+top_p: 0.2
+temp: 1.8000000000000003
+Petsharing and Foundling services
+Bringing classic forms to the digital age
+Consult with people online where you live, work and play.
+API for the Animal Health Supply Chain
+Monetizing Sports Teams and Musicians Practice
+Android application integrator and supplier
+Residential treatment for childhood obesity
+Higher intellect discovered on Facebook
+Digital invitations for close to and work with potential customers
+Potential investors in insurance cooperatives
+Share your interests widely and discover new ones
+Where Elephants, Bee and Psychesmircer
+IT and Business Development Consulting
+Online course platform for companies
+Transforming Living Collections into Collections
+Find the people you need when you need them.
+Leading online community and event marketing solution
+Online Advertising to Local Consumers
+Room designs and furniture catalogue
+Exclusive marketplace for apps coming soon.
+Publishing platform for smartphones and tablets
+One stop shop for both consumers and suppliers
+Support Animal Welfare Organization
+8 Simple Ways to Find an Apartment
+We make being successful through planning.
+Doubling effective social media campaigns
+KOBlyF is a social organizing platform
+Social Events Management Platform
+Venture Digital Consulting and Development
+Online Responsibility Marketing Platform
+Securely store and collaborate your contacts and documents
+Invite Professionals To Your Home
+Next generation mobile and social payment solutions
+Bitcoin services for consumers and merchants
+Mobile Services Marketplace Platform
+Broadcast, protect and appreciate what you value
+Creative Production and Branding for Industries
+Google Analytics for Property Data
+New ideas for the entertainment of all.
+Make commercial property management easy
+We are a Polk Institute grantee, funded by Stanford and Harvard.
+Easily arrange interviews for secure.
+Get doctors to your home, anytime, anywhere.
+Equity Crowdfunding for candidates and companies
+Get more information about movies
+Results: 45
+top_p: 0.2
+temp: 2.0
+world's greatest lifehacking toolkit
+INNOVATIVE FINANCIAL FUNDING ADVISORY FUNDING
+The ultimate traveler'd solution
+Hazam for Indian Electronic Music
+More advanced customer communication style
+Delivering value for tourists and locals
+Fun, communal while and skillful access to public transport.
+Simplifying Quality Extension Manufacturing
+Event Intelligence and Street Use Tools
+Energy Efficiency Services and Limucation Clean Energy Technology
+Toss and turn into retail discoveries
+Indian artist residency tromwarencing to you.
+Product Description Optimization, Recommendation Engine,
+Watch and enjoy original African independent films
+Meowth wraps tapering hardware into augmented reality interactions.
+Presidential Election Coverage Portal
+Everyday smoking cessation appeals
+Space Based Marketing Order Submission Platform
+Changing the way Oval passes go down
+Enterprise Edition Monitoring and Editing
+Make risky, socially dynamic decisions
+Be Connected To Creative Intelligence
+Opinion Ledger gets you involved in crucial decision making.
+Raising consciousness in workers' vehicles
+Strongest human trafficking anomaly detection device
+Professional First Clothing Company
+Innovative cam face camera unit
+Amazonplex for Amateur Sports Fan Direct Retail
+Multiple Apple iPads combined to create a system to manage your stuff
+Next gen assentio is Digital Management Development for IT companies
+Rooting horse brings social advantages to everyone
+Mass VR update for real estate and new media
+Deep learning for engineering optimization.
+Customizable clothing for the discerning consumer
+Gamified Cocktail Parties and Alcohol Delivery
+Technology and Design for the Entertainment Market
+Turning invisible diseases into real health opportunities
+Visual Observations for the Home Designer
+Bringing Holistic Facial Health to Patients
+Revengerme enters inventory without searching talent
+Last mile logistics for tomorrow's communities
+Digital Playaction Bots for Mission Management
+HotelMobile is now Haiankom. Cash them in.
+Strategic Investment and Trading Company
+D envoys building strategic product plans
+Business Initiatives Degrees Gone Mobile
+Expan Asian Quality Online Media Company
+media commentary, news assessment and advocacy platform
+World changes3 simple tekki endgames
+Disruptive Virtual Event Discovery
+Forge a safer way to marry via compatible keeper's habits
+To create the type of event girl you will.
+Zillow for commercial building sites
+Results: 53
+top_p: 0.30000000000000004
+temp: 0.6
+Results: 0
+top_p: 0.30000000000000004
+temp: 0.8
+Results: 0
+top_p: 0.30000000000000004
+temp: 1.0
+Results: 0
+top_p: 0.30000000000000004
+temp: 1.2000000000000002
+The mission of Theorem is to make credit safe and available. We use
+Results: 1
+top_p: 0.30000000000000004
+temp: 1.4
+Investment Crowdfunding with Myths
+We Make Fairtrade Coffee Truly Ethical
+Workspace is a craft brewery and coffee company
+helping public schools improve through data analytics
+Online Directory of Solar Products
+Discover and Invest in great startups
+Quality, fairtrade and organic coffee
+Specialized Adventure Entertainment
+iPad Point of Sale System Software for Retailers
+Problem solving for corporate innovation
+Efficiency in Service Management
+A design firm that builds new businesses.
+Results: 12
+top_p: 0.30000000000000004
+temp: 1.6
+INNOVATIVE FANTASY SPORTS MARKETPLACE
+EOexperiential Accommodation in India
+Features without limit, shape and content
+Meal, Ayurvedic and Carburettos.
+Customisation of Japanese car roofs
+Online cataloguing for elementary teachers
+Visualization of the brand marketing activity
+Traveasy is currently operating profitably in Delhi, India.
+Designed to design the cloud generation of software systems.
+Traveasy is currently operating profitably in Delhi, India.
+Cloud management and cybersecurity for enterprises
+Economically sourced salmon and trout burgers.
+Try before you buy service, empirically.
+Perkville is a leading developer of online recruitment solutions
+Mobile Plans for travel booking
+Planking for sustainable agriculture
+Make use of your spare time wisely
+Tomentary International Network
+B2B online destination for lone travellers
+Designing locally to provide it locally
+Making it easy for SMEs to source from each other
+Wolfram is creating the future of digital publishing.
+India's Learnvidging Destination
+Maximizing child's reading time
+It is best to learn transparency and share knowledge
+Social Program to promote Canadians in Language Schools
+Bridge the gap between market place and technology
+Ecommerce Tools and Website Design Products
+Kiva meets Kickstarter with a twist
+Private Communities for Medical Institutions
+Sourcing Innovation for Manufacturing
+Innovation for the Tech Startups
+Eliminating the burden of messy data
+Brand recognition for local direct marketer
+The easiest way to your favourite food
+The details you need at the centre of your cybersecurity deployment.
+Results: 36
+top_p: 0.30000000000000004
+temp: 1.8000000000000003
+Branded retail sporting manager in the marketegas
+Useful error tracking for Rails apps if you are a Rails developer
+Data Analysis and Mining services for Commercial Districts
+Teracent and Glend according to your option
+Build some bio useful databases as soon as they come out.
+18 in 1 Digital Marketing Package for Small Businesses
+Quick Recovery Tool with Innovation that Survives Disaster
+Founders Jeri Wanelo and Terry Smith
+Customized teenagers' items via local stores
+Next Generation Wireless Telecom
+Rule Correcting for Personal Finance Advocates
+Expert College Advice and Coaching
+Results: 12
+top_p: 0.30000000000000004
+temp: 2.0
+Classified for Segor Roadshowrooms
+Educational Patrol for Public Embarcas.
+Personalized the story through drinks
+Simplified inventory and price intelligence consumer arr oasis
+Customized Agency Gathering Environment
+Internet Listing Services For The
+Tips anyone upgrading from any the time products
+ROOOver Easy to use construct inflatable houses
+Also produces apps for Ebay Australia and New Zealand.
+Related Projectors aiming to rebuild the REST of the internet
+Data Digest from Images Sequenced by Optical Glaciers
+Read anywhere, anytime. Inspired.
+Time and funding map for sexually active partners
+Geothermal reclaimed land lead storage causenav for maroonits worlds.
+Smarter partnering advice between friend and lover based on Facebook
+Capturing waze incorruptible art in venues worldwide
+Traverssafe peer support networks for higher education charities
+Billing and Factoring for Popular Mobile Apps
+BitTenser smartphone app will meet finding hotel tablet solution
+Menu delivery with fast, cheap, dedicated bandwidth.
+True geographically inclusive health check
+It's no shame, given our demographic balance.
+61st Century Magic Track Players
+Working with Startups to Transform Dual Income Community
+Consumer Assistance Protected by Child Care Resource Centers
+Fueling transportation tech community planning
+digitization enforced social privacy
+BeeBox and Security just Smarter Home Food as a Service
+Ready to recycle good carbon asset the Mexico macro fundamentaions
+However, feel free to mix and sing favourites kinds of music
+Online Marketing Agency Started With Described Alone
+GitHub for provided genetic testing in soils
+Traditional Music Streaming Platform
+The betta score card dueling platform
+Free market health consumer robust mortgage counseling
+Distance Learning Solution for Distance Learning
+Hi science advocates global community
+The picture perfect landscape for imaging health
+Help advocate change through available quantitative data.
+Create emerging intelligent sales and manage risk capital
+Improvised Casino Software Development
+Create and monetize e Buzzwaves
+Learning Publisher specializing in Home Wine
+Building the healthcare solution that matters
+Results: 44
+top_p: 0.4
+temp: 0.6
+Results: 0
+top_p: 0.4
+temp: 0.8
+Results: 0
+top_p: 0.4
+temp: 1.0
+Results: 0
+top_p: 0.4
+temp: 1.2000000000000002
+Crowdsourced Cleantech innovation
+Making life easier for family caregivers
+aytse becomes a standard in performance improvement and design.
+Results: 3
+top_p: 0.4
+temp: 1.4
+SEO and Inbound Marketing Consultancy
+Results: 1
+top_p: 0.4
+temp: 1.6
+Your laundry nightmare, is it supposed to be.
+Third stage Investment Banking and Corporate Risk Management
+Trading and Investing in the Media and Entertainment industry
+Branded interactive experiment games for iOS and Android
+Fedora and Leanora's Social Food Products Sucess List.
+DataCloud Technologies and Software Consulting
+Priceline for lifestyle products
+Project catalysts successful event preparations
+Strategic Proximity Management and Work10ation Strategy
+Open Table for Painting, Staining, Waxing, etc.
+TIBCORE is a niche market with unparalleled technolgy innovation..
+Complete Bedding Submission Program
+Drawfeed is the dynamic internet of artist negotiation.
+Turn your online sources into offline recipes.
+Billing, Payment and Data Delivered
+Select vendors and online trade solutions
+Trade threats posed by physical action
+Experts at developing competitive products
+Optimizing the blockchain ecosystem
+Join the Body Horror movie trilogy
+These are minefields for solar startups
+Optimizing later on with global innovation
+Advertising freeware and retail profiles
+SaaS Business Process Mgmt. and Royalty Accounting Platform
+Best management tool for the real estate rental market
+By next summer, weather will be totally different
+Custom web development and graphic design studio
+Learn to control robot blood waste.
+E comercialto you, from start to finish.
+Ultra light weight carbon emission virtual counterweight battery
+Content eservice agency specializing in empowering social publishers
+Helping content marketers find their audiences
+Interactive cinema, looking quite different
+Crowdsourcing Top 10 Lists For B10G10D IoT Innovation
+Efficient radical, safe, efficient bleeding products.
+Digital Office365 for businesses and OTOs
+Online Digital Menu Ordering for Big Data Vendors
+Deep Whole Plant Prepared Foods
+Lumosity for skill development and career planning
+Shop like a predator. Closet to Roam.
+Artisan spice replacement Ayurvedic and
+Results: 41
+top_p: 0.4
+temp: 1.8000000000000003
+Gear Gaming Investment Platform
+Rehocracy address system contributing to benevolent outcomes
+develops and releases desktop and mobile applications.
+Legend identifies women as queens.
+Merging vacation rental and home construction .
+Creative ideas limited through creativity.
+Emotional depth insight for brands and marketers
+Redefining careers and providing coding opportunities
+CCG along with Google Wave and Agile Cloud.
+We have incorporated Sage Familia into our Human Terms
+Ever wide assortment of ReBroatives and investments
+Twitter for neck shaving guidance.
+Custom sound effects for video and audio industries
+Hong Kong's Resource Excellent Fine Arts Auction Gallery
+Association bridging facilitator and user
+Learn languages with language training
+Research, stimulating games for teacher teaching experience.
+Data acquired from neuroscience
+Help people merge long forgotten blog comments
+We make clients have for their marketing
+Become a Kitchen Store for other products
+Suggestions for Cafes and Teresoles
+Promote just created events gain engagement and monetization
+Uniquely Unprecedented Accessories
+LA's leading startup project beeboarding and incubator.
+Engaging rehab programs for elastic fitness vehicles
+Infusing radical healthy living
+Helping reformist artists market their creative services.
+Like a pirate sailing training program
+Creation of brands driven by data
+Faster magazine into a newsletters customized with vape flavour.
+Intelligent two wheel gas and electric vehicles
+Entrepreneurial Tudor Photography Cabin
+Curated Daily Pickup Letter Inspiration App
+Zomato meets Lipsign before it takes too long
+Net based uncertainty hedge fund trading services.
+Results: 36
+top_p: 0.4
+temp: 2.0
+Course TAILORED TO TEACH TECHNVORE
+Leader in provide team moving recommendations
+Comment as a Service, Vanguard 3.0 beta forum renew supporter locally
+Complete Event Restoration Fixing
+global Telegram land lead generation voip carrier inc.
+Inglogial Wall designed weblog content producers
+Complete E in box into saved plans
+Targeted have tried when you misplace things
+Alternative Market Processing Device
+Email at and contact with consumers
+Mobile forum network for forums
+Naturally developed organic pesticides
+Connecting Maps People to Hydrogen
+Predictive maps for iPhone as shown in Videos
+Index servicing library for tourists
+State of the Art Active Cooler Technology
+Cosmetic method and feature revelation platform
+Use Sound In Spotify Plugin da Baz Ahmed QR Codes
+Crowdfunded antibodies targeting proteins specifically
+Package days for engineering plan noodle Companies
+Reliable streams for engaged studios
+Bringing Social Networkingfullness to Passive social Media
+Making good people actually wise
+Online steppath that is smoother, darker, more structured
+Incubto ensures Data integrity or delivery of IMF loans
+Save Money by Creating Individual Retail Referrals
+A New Art to Apocalypse by Com Deiting the Dynamic
+Sitcom panel's advances him to make in reasonable expenses savings.
+Results: 28
+top_p: 0.5
+temp: 0.6
+Results: 0
+top_p: 0.5
+temp: 0.8
+Results: 0
+top_p: 0.5
+temp: 1.0
+Results: 0
+top_p: 0.5
+temp: 1.2000000000000002
+CRM tool for managing changing industries
+Frictionless Reverse Auction for High Value Real Estate
+HR tool for constant workforce management
+A cloud based loyalty clubs network
+Crowdfunding platform for partners
+Building the world's best web apps.
+Producing educational games for kids and adults.
+One stop shop for all your projects
+Making it easy for SMEs to book with freight forwarders
+Solving the commodity 1 supply chain problem
+We make it easy to organise your holidays with your friends
+Virtual Reality and Virtual Reality App
+Big Data Analytics for Manufacturing
+Virtual Reality and Augmented Reality Application
+Location based Social Media and Content Marketing
+Discovery and Search for Fitness
+strengthening mental health and improving mental health
+online publication and magazine publishing platform
+Manage your cryptocurrencies in one place.
+The easiest way to buy and sell used goods across India
+Exclusive Ad Network for Better Books
+Results: 21
+top_p: 0.5
+temp: 1.4
+Video makes the internet of things possible.
+Passive social media marketing for the masses
+Library of Videos, Last Minute.
+Write what you know and connect with readers and writers like you
+A platform at the center of the Internet of things.
+Ecommerce for the editorial art space
+Empowering users with digital marketing skills in a box
+Social Online Culture Polling Platform
+Mobile order and payment platform for dispensaries
+Medialink helped companies connect with their ideal customers
+Raised seed fund capital for brands and entrepreneurs
+Card Issuance and Management Platform
+Personalized online grocery shopping
+Discover the best stuff, anywhere
+Empowering Ecommerce Marketsecopreneurs
+Content marketing platform with power
+Proposal generation and email marketing in one
+Recruiting and investment strategy community for entrepreneurs
+Information Disclosure and Data Collection
+To make it easy for consumers to say anything about any business
+Digitalizing investment research
+Results: 21
+top_p: 0.5
+temp: 1.6
+intelligent mobile apps for enterprise enterprise
+Writing their music online, anytime, anywhere.
+Unlocking gateways to tourism bit by bit, everywhere.
+Following artists steps to find an audience.
+Case studies for clinical neurology
+Monetizing your real estate expertise
+Mobile apps platform for professional networking.
+Proactive Computer History Consulting
+Inspirational Marketing for Startups
+Online Appointment Booking for a Rural Doctor
+Cloud CRM executive actionable solution
+Works full service locally as service
+Similar to Twitter but for accounts containing link asset references.
+Craigslist for covering letters
+Emulating the Enterprise Messaging Experience
+Online navigation and trackable advert strategies
+At Home dairy free grazing and butter his side
+Social Network for Lansrangia and River
+Attract startups to your markets
+Investing in tech businesses and startups
+Permissions for Operating System Solutions
+ulcery ad tech and project proposal creator
+Only OMNI puzzle games for android.
+Access to support organizations
+Providing Open Online E, Web, and Mobile Applications
+Like Rinemon you can drink. Drink socially. Drink smarter.
+Accelerator for Industry Developer
+Snapchat meets business contact
+Online agency building joke rule 13 studio
+Both promotion and resource for next generation iOS or Android app
+Leader in providing team based microfinance solutions
+Test and visualization based tools for mental health assessment
+Trust identity verification cloud authentication
+Software CA to online advertising sur processing HPC
+Clothing alternative to NikeID for mom.
+Survival for brands and individuals
+Over Ideal Hotel Checks Fee Paid by Apple products
+Prezma turns social media content into actual, measurable value
+Aimed scanning for auto insurance purposes
+Delivering comprehensive computing power through electronics.
+Results: 40
+top_p: 0.5
+temp: 1.8000000000000003
+Check local craigslist for rents
+Share Local to friend and save roaming news
+2011 LinkedIn meets Similar or Renewable datingcade.
+An Education Investment Platform
+Pay tax and shirumph endings existing windows builds new ones too.
+Unique with node based farm manager
+Targeted Craigslist 266 Increased on Funding Requires
+Discover or listen to Pandora here.
+Getting Latino Americans to finally quit.
+Broadnite meets Bloomberg for big loss policy thinking.
+Peer voters authentication for Green, Democratic, union members
+Who brings a jacket to stay on top of their plant sources
+Maximizing Sell Operations capacity
+Mental health benefits marketplace
+Education Environment Consolidator
+let us rest easy in case you need us
+Tracking with HIPAA and Medicare encrypted DATA
+Delivering you places that don't suck.
+Disrupting the Wireless company market, population safety
+Robohun is the automated EV utilization platform
+Improving outcomes in clinical clinical cancer practice
+Leading neighborhoods valiantly held electric taxis
+PoliticoBased Community Analytical Platform
+One of the largest virtual communities in marketplace economy.
+Unable cougar happy life hacking device
+Lindfront offered DOOH caching as a service
+Importing components with Robots via B2B buyers and protocols
+You know what you need to do, time and money
+Industrial tool performance verification and certification
+BlueSummer proper Heart rate ambient brothing system
+Increase facility solar efficiency
+Images on instruction, anywhere cloud writing saved
+ARKGID overcome political anxieties
+Robotropical Art Communications
+Organitarian Primole focusing stock market capitalization
+Results: 35
+top_p: 0.5
+temp: 2.0
+Keyboard chemicals male sanit product
+Putting Your Bailey Stories Here
+uring note taking home information productivity
+Persieri Bag Orchestal Media Discovery Retail Manufacturer
+Crowdsupplying master governing innovations
+Extra Truck Trucks On Surfboards
+Biken Eloth Sorcerer MOB Enjoy Responsibly.
+Issued first itagios rather products for bill deductible expenses
+Sport tablet reception cabinet update loving
+Quick to rem notarese sports statement filters
+Paperless Worker Coognition Emeritators
+Getting kids ready for schooling properly
+Skill Building Platform for Screencraft Respondents
+Environmental American Historical Lite
+IF intelligent transport ambition generation
+Retail block before you thought of paying
+A networking app for farmers and burger arch was launched.
+Starting very hard sorting and research methods
+Nation Grid Electronic Computer
+Corporate Function that provazes incentives
+Handle diverse environments with what you exertful.
+Results: 21
+top_p: 0.6
+temp: 0.6
+Find and book the best local services from people like you.
+Kickstarter for physical products.
+Results: 2
+top_p: 0.6
+temp: 0.8
+Interactive training for Google Apps.
+Designing a new mine technology
+Designing a new phone system for the IoT world
+Designing a new generation of activewear
+Designing a better way to shop online
+Phone System Development and Startup Incubator
+Results: 6
+top_p: 0.6
+temp: 1.0
+Simple Market Alerts And Social Strategy Action Tools
+Mobile loyalty platform for gas and electric vehicles
+Speed and quality of mobile video streaming
+Get dressed with local styles and fits
+Curated home for the latest and greatest content
+Mobile loyalty program for small businesses
+Get your cash back when your flight is delayed
+We help people build, test, and improve their web APIs.
+Energy Analytics and Sustainability
+Resiliential Accrual Platform for America
+Patented cannabis products based on DNA Technology
+Easily search, find and share the best hangouts
+Profitability Engineering for Startups
+Turning data into actionable insight for brands and marketers
+The new way to buy, sell, and secure cryptocurrency
+Crowdsourced Acquired Hedge Fund
+Modernizing the state of fitness.
+Resource Management and Analytics for Big Data
+PapaGaruda is the heart of the Internet of joy.
+Simple, delightful, natural sweetened condensed milk.
+The best way to build your online network
+Business, Technology, Public Policy and more
+SaaS Project Management Software
+Discover and connect with natural beauty products
+Redefining the way you send and receive messages.
+Use your brain to follow your heart
+We help people make trading decisions
+Attendant Networking for Colleges
+Smart technology for the physical therapy patient and the outdoors.
+Helping IT companies develop their digital assets
+Find the people you need when you need them.
+Business and Social Learning Platform for College Professors
+Ticket Information Collection and Analysis
+Building a treasury of experts.
+Changing the business world from gut driven to data driven
+Results: 35
+top_p: 0.6
+temp: 1.2000000000000002
+Browse the world. Capture the world.
+Global open source software solutions provider
+The premier blockchain and distributed ledger technology company.
+Photo Management and Sharing Platform
+deliver a tasty piece of cake to your client
+Results: 5
+top_p: 0.6
+temp: 1.4
+Roof top solar plants made easy
+CCG empowers girls to develop in schools
+Connecting research teams in 75 countries, starting with China.
+Connecting current students and recent graduates to businesses
+Results: 4
+top_p: 0.6
+temp: 1.6
+No Satellite Data Coverage Banking
+Amazon similar to Ford Magazine.
+affordable horse boarding community
+Los Angeles Stock Exchange is Now down under
+Dynamic Static Blockchain based Rejection Motor
+Visit the world's greatest music festivals, without the hassle.
+REVOLUTIONARY STEALTH DEVELOPMENT WEAR SOLUTIONS
+Oleosity for skin care and rejuvenation
+Google in a candy shaped 100 piece package
+Social media monitoring and equality platform
+Gender constructive design agency
+Most Effective Venture Capital Firm
+Store, Stock and Deliver True Big Data
+producer of megauploads of market close to sell in the news market.
+Transforming services into needs
+Google Deal Framework for servers
+Be social, engangliver undistributed property harm.
+Online reservation integration for hotel fours
+Sandvine prevents sandgate in otherwise safe online ads.
+Commercialisation of Alternative Investment Management Firm
+Our very own mobile hotel offering for next day based SXSW
+Powering payments for international Strollers
+Reducing Customer Toxic Depression
+US Proponents of National Regulatory Infrastructure
+Build your password app light and trendy enough to confuse the odds.
+TurboTax for real estate agents
+You refer things to me as freely as you can be reached.
+Real outlet for alternative fuel
+Interactive neoliberal web design.
+Creating the modern corporation
+TurboTax for Property Requirements
+Vanguard for talent acquisition
+Search for students loan alternative Monday Contract Sources
+The automated lifestyle magazine.
+Facilitating transaction based outsourcing and merchant services
+Collective Scheduling for Internet of Things
+TableTopServer based data management and Reporting System
+Travel Media for the WiFi World
+BooklyUntil removes the unnecessary paperwork from right cases
+Socialencelling feature unveiling on pavement as a service
+Personalised At weddings, San Bernardino surgeries, Hawaii assurers
+ISIS Veterans assemble cooking case studies
+VoIP MODELINE TELEVISION SHOW FOR CELEBRITIES
+Turning Power Retractable Sunshade Thins
+Social clearinghouse for businesses
+Colorful denturencing ink that generates excitement in gamemakers
+Results: 46
+top_p: 0.6
+temp: 1.8000000000000003
+Physical AD necessent Edu Design
+Linkedin opened for Mobile Developer As , per FCURA Studio concept
+See what data management platforms you need. strategically.
+Contextualized Allen Bus Summarization Portring Intelligence
+Targeted phone stand operating systems
+Never another logo off at software networking companies
+Short what stands behind a Best Business Identity
+Bpace has simplified of online sweeping at Penttown College
+Beatdown being built to achieve the release life saving mission.
+Crowd mower production around process turnarounds and projects
+Open source genetically prone commodity mosquitoes
+Brain Nutrition Auditorium Experience
+Develop your potential story worlds
+Elite Professional 4 Life Helmet System
+Deline based Micro Tyme bot Programmb. Phase III
+Improving quality of life for stroke patients
+You Simplify Others Adjustment Models
+Federal securities financial utopia
+What Westworld builds, Ephertha urbanates and Ethtiates
+Adjusting Human Anthropoid 0 identifies duplicate cardiac elements
+From Concepts to Credible Trading Health Service Data
+Publiclyver Tactical Team Connects from it's CEOs to the legislature
+Choice Express committing proxy mechanism for clubs and countries
+Commercial Clearance Services Provider
+Walkability based mobility device
+Extra services for YouSav even without a Maintenance invoice
+Combining familial communication en fuego.
+Optimized Schedule in Ryne being a girl.
+CS Outspeak Plugin Replacement Technique
+Internet particularly tailored for
+Parents invest saved plans NEK APABIela Test Garden Awareness
+cutting edge tech on one income Linux project
+Checkalls and Collabs Directory firm in Quebec, Canada.
+God mod portables recyclable carbon blocks
+Delta Method Accomplisher, Leading Online Micropresonials
+Internet leasing about house call perletting
+T constant wireless internet beacon expansion idea
+Online Point of Sale and Smart Phone Billing on In
+Website upstart global resolver
+Review bomb at timer bidding online auction house
+PithiroT circulates positive onlineness toward anyone.
+Magruzic Resolve Police Roadblocks
+Results: 42
+top_p: 0.6
+temp: 2.0
+match face action among friends somehow physical or holographic
+We Binah laundry striking wholesale
+Social Postdelimpchio fiso toe anch balances
+Narrative Enhance training using Baldwin operation calls
+Power Teams brand follower program
+an engagement showcasing from regional cloth preserving technologies
+Experience same day Jewelry Destruction Human
+Results: 7

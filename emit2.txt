@@ -1,0 +1,591 @@
+Loading checkpoint checkpoint/run1/model-10000
+top_p: 0.7
+temp: 0.5
+Results: 0
+top_p: 0.7
+temp: 0.7
+Results: 0
+top_p: 0.7
+temp: 0.9
+Nutraceutical based Acne Screens
+Help businesses sell more, faster.
+Virtualizing the physical world
+Helping them build their skills and prepare for future jobs.
+Helping them realize their dreams
+Helping them enjoy their nights out.
+Crowdsourced recruiting for startups and SMBs
+Helping consumers manage their health
+Mobile Company Management and Monitoring Platform
+Operation Management Software for Big Oil and Gas
+Delivering tangible benefits to patients
+Mobile Medication Adherence Solution
+It's a new revolution in social networking.
+One of the leaders in Ad Retargeting and Empowering Mobile Apps
+Improving efficiency in construction sites.
+We help people organize and get their needs met by local experts.
+We are changing the way that teams work
+Results: 17
+top_p: 0.7
+temp: 1.1
+The digital platform for art collectors and curators
+Launch exchanges for any investor
+Bringing Web Commerce to the Rest of the Web
+Digital interaction designed for mobile games.
+External Quality of Cancer Diagnosis
+Online shopping hub with media and a budget.
+Crowdfunding for nonprofit causes
+Use your connections to find the people you need when you need them.
+We make it easy to find the people you need when you need them.
+Custom web development and startup strategies
+UX Research and Strategy consultancy
+Discover and book the best activities
+Helping consumers lead better lives
+Capture and share your messages.
+Keep people informed of your health.
+Active eating healthy, healthy, sustainable technology
+Reporting incidents with smartphone cameras
+Green cooking technology and practices
+Educational gaming and social games for mobile and consoles.
+Driving customer loyalty with an mobile loyalty platform
+Insert and transaction services.
+Fresh food delivered on demand.
+Don't just read a book. Watch it, chat with it.
+Crash testing app for mutual funds and portfolios
+Keeping the world informed of your health.
+Extending tax to rental landlords
+Predictive Analytics for the Enterprise
+Turnging trend detection into a science.
+Mobile apps for professional networking.
+Making it easy to find, track and share your favourite beers.
+Risk and resource management tool for business
+Mobile social network for golf. Golf clubs. Championship.
+Quikro's instant hands on service for weddings and funerals
+World's Largest Open Online Apartment Registry
+Redefining mobile freight management
+Schooling automation for the 21st century
+With Picture, You Will See What You Can Do
+Small, simple, useful mobile apps.
+Roo Kid, Rain or not as scary as video game
+Brain training for healthcare professionals
+Shop Pop Up Shop, Shop4tr in store and online shop
+Empowering Video Hiring Platform
+Create and Host Beautiful Virtual Events
+Commercial and Industrial Energy Management and Market Services
+Digital Currency Marketing Platform
+Banque de l'Hermitage, des moments inoubliables en famille
+most active investor in the credit space
+Results: 47
+top_p: 0.7
+temp: 1.3
+AirPR is a PRTech company that builds targeting PR companies.
+Your hosting solution, built for developers.
+Be part of events you care about.
+Cloud management for software teams.
+Business Automation using Probot
+boarding and acceleration platform for business borrowers
+Kickstarter for Movie Production
+SaaS center for diversity, security and technology
+Where every business deals with Uber
+TS Outsourcing, Digital Production
+Space Requirement Management Made Easy
+Leading distribution platform for 2018 model year and 2019 models
+Cardback eliminates Card Expiration Date trouble.
+Business Administration and Management Software for SMBs
+Meetup for real life local events
+Solutions Taking The Edge Of The Network
+The Apple Store for Digital Dreams
+internet lobbying and community building
+Stanford Device for Nail Repair
+personalized daily vitamin packs
+Helping tobacco lovers realize their dreams
+Publishing tool with publish table as a service
+Automating Tax Planning for Consumers
+A freelancing marketplace for photo and video projects.
+Create your free public transit app and showcase your support.
+Supercharging trading for financial institutions
+Mid City dives into New York City's scientific underbanked
+Solaborate is a platform company providing Solvents, Exsea, and Sea.
+Think of it as a New Way to Wear Activity
+Ecommerce and FLP platform for online stores.
+Done right, quick and easy online recruiting
+Crafting Customizable Computers, Jobs and Demands
+Truly open ended recruiting industry
+Research,Treatment,Product Development
+Save money, money, and lightyears with Facebook
+Mobile consumer loyalty program
+Results: 36
+top_p: 0.7
+temp: 1.5
+licensing and share weight loss messages
+Designing Events from the Live Blogging
+Venture Apps to help Factose coal miners integrate online
+Civil agency winning over 900 startups in New York City
+LexBell is the Restorando for voicing your thoughts
+Financial Firms Bring Refugees to the US
+Ordestyle distinguishes himself by his wardrobe.
+Creating and investing in digital businesses
+Create and counter space events
+Fast. Instant. Patient HR Software.
+Socially Camp for mentoring online
+Battle ropes for climbers, cab trussing lights and Trekkies
+Burtains for athletes helping them stay prepared for sport
+Windows 7 App Activation and Internet Cleanup
+Find sport and the people you know
+Idea blank fiction...the best way to create a book
+German Chancellor's good chancellor
+I listed and signed publications
+Mobile chef restaurant recommendations
+Search and compliment every casting agent
+Grandma safely reaching the signroom
+Android subscriptions for personal and small business coaches.
+Gaming science taken to the next level
+under control system for cellular bioprology
+Personalinated game aide planning
+the Craigslist for mapping products and services.
+Competitive internet TV ratings
+Find in loyalty programs where you love where you shop.
+Programmatic Localization Digital Stills
+Website cyber insurance browser for mobile developers
+We make businesses blend humanity and technology.
+TurboTax for temporary international graduate students
+Incubator for Cryptocurrency Startups
+Innovative AC complete smart as a SUBOH.
+The system for collectible brands.
+Using hyperlocal messaging to improve guest handling experience
+Curated Menswear is here with tailored to your taste
+Top 10 Retailers under One roof
+Graduate Studentships at Startups
+Roaming Monster is an online student cooperative network
+Customer Feedback on Mobile Apps
+Clean, affordable food for you and your
+Results: 42
+top_p: 0.7
+temp: 1.7000000000000002
+Sticky Notes for Music on the Internet
+duoLIGHT Sweet Fun Fun Fresh Brewed Warriors Shake Place
+KaDePE pierfolio solar este limpie.
+Dougi Forms Componentials Balance Itza fel typically five de pm ..
+Online Express bill management made easy
+Savannah Dragons Fashion Meal Delivery
+Republic Puijstead Community Information
+Your Sensitive Center for Learn Windows
+Do it yourself online meaningful speech survey tool
+Wordgeist Brands evangelians Version Control
+Technology for the specialized investor
+Building with parametric broadnames
+Midtown iconic streetwear label injecting modern relevance
+Find supporters of charitable causes faster placing impact.
+Topic stealing nude photos from news producers
+Check your Lip Synchronization Password
+These websites caused by women.
+Helping entrepreneur discover issues key to their strategy.
+Motor vehicle road safety information management
+Package eliminating provided service and freight surcharge
+Strategic Food Investment Chicago
+Offering prime placing via instant customer sympathizers.
+Women shave developed for them.
+Supportworthy notetash substitutes
+Super simple standardized test prep
+Mobile direct trust authentication
+Creating the world's simplest signing document syntax tool
+GeneralethyOrgan use CYCA BB Reporter
+Qualified aus daboes curacio fully ahead 10 time at zero cost
+Buyingrugues Collection purchased with active network commands
+How Box Yet Arrival achieved virtuimal success
+Download Metric Divine cloud custom analytics platform
+Technical Debt Lending New Network
+Bringing NightLife to Social Media
+Eplot devicesize shaking virtual world
+New Global Sport Journalism Reported
+Taylor about Outstand Atlanta the story before it kills the story
+Strategic Information Strategies
+Custom Branded Vocabulary Buddy Concepts
+Evasive Information Badasses Direct from Academicians
+High level investment stability
+Creating of something new around himself.
+Litemoscule Classified Assessment Agency
+Fragrance Subscription Community
+Not stopping hungry talk. Feed your preferences.
+Cross fertilization consultancy
+Leveling the Healthcare Industry
+Prosbiiling and Jiangling enabclovation foray on 501c.
+Results: 48
+top_p: 0.7999999999999999
+temp: 0.5
+The best way to buy a new car online.
+Results: 1
+top_p: 0.7999999999999999
+temp: 0.7
+Contextualised 3D animated video messages
+The World's First Smart Singing Platform
+Top free destinations for travellers
+The first cloud based real estate platform
+Broadcast your content to the world
+SaaS for Social Media Marketing
+Leading destination for men's fashion and culture on mobile
+Immediate response to news reports online
+Artificial Intelligence for the Social Web
+Search for the time when you need it.
+Connecting people with their location and history
+We help people make better investment decisions.
+wrapper is the world's first secure mobile wallet
+Connecting health care professionals with their patients
+Zestable helps you find the people you need when you need them.
+Helping you make better decisions
+Helping you make better decisions
+Enabling brands reach their ideal social media influencers
+Results: 18
+top_p: 0.7999999999999999
+temp: 0.9
+Boutique animation studio based in Chicago
+The social marketplace for tickets
+Real life companionhip for employees
+Loyalty card and marketing platform
+Share, discover and discuss DVDs with friends
+Customized legal advice for startups
+We build world class web and mobile applications.
+Fashion marketplace connecting consumers with retailers
+Automated blog and social media curation
+Smart electric vehicles for everyone
+Building a student technology culture in Chicago
+Building a community of learners and creators
+Internet of things for data networks
+A complete kitchen for just cooking.
+Littoral Departures and Marketing
+Exclusive mission development research
+Results: 16
+top_p: 0.7999999999999999
+temp: 1.1
+Faster, Smarter Order Processing
+Tech News, Tech Topics, Food, Fashion, Entertainment
+Informal dances and choreography festival
+Building value in startups and enterprise companies
+Enterprise Singapore App Building
+The battle of the marketers and the consumers
+Results: 6
+top_p: 0.7999999999999999
+temp: 1.3
+The new way to organise your holidays
+Share content and making profits
+Peer Funded Small Business Lending, build your online network.
+The cloud based social classifieds network
+Integrating technology with the three dimensions of infrastructure
+Bringing efficiency to cafe feeding
+Shared social equestrian service
+Building the ecosystem for smart urban transportation.
+Calling iOS developers thrills, like GM fueled by analytics.
+Lab examining machines for the treatment of urinary tract infections.
+Software from the International Astronauts
+Warehouse to Buy and Sell solar PV Electricity Generation
+empirically based employability index
+Using OMG enablment to build a better menswear brand.
+AUTOMATED SERVICE PROFESSIONALS
+Confess is an anonymous social network
+Locksmith in Seattle, Washington
+Create and enjoy stories with friends and find live tracks
+Easy Counseling for Managing alcohol abuse.
+Create and Host Beautiful Virtual Events
+Interactive Web Design Tools for Designers and Developers
+Mountlake Windows to Windows U...
+SaaS computed computing platform
+Connecting Careers and Employers
+Interactive web design and mobile publishing
+Geothermal power project startup
+Reviewed by the menu not the venue
+Easy HTML5 publishing and publication.
+Fitness and Strength Training Apparel
+Selenium cloud acceleration cloud system
+Digital Marketing for PCI Contracts
+RevoInternet Radio For The Next Generation
+ability to result in wondrous inventions
+Visual Food Ordering for Restaurants
+Geospatial Support for Public Transportation
+Instant images with time detail
+Plus Size Fashion Lifestyle Brand
+Discover how specific events are shaped by social media
+Connecting Kayak and Facebook friends to great local businesses
+Those are the odds, simplified.
+Mobile CRM for the Telecom Industry
+Download and download documents
+Requires every skincare treat to be payed forth.
+SaaS Microsoft Dynamics Baseline 2002
+Results: 44
+top_p: 0.7999999999999999
+temp: 1.5
+Leading prescribing Simplified fecalifemborne disease
+Securing Approvals for Photographers
+Ericsson writes home marketing blogs in Swedish.
+Reliable and cost effective Lubricants
+Social networking site for residential divorces and marriages
+Building hotels to capacity when we couldn't find them.
+Here's a sneak preview of what's going on in Slack.
+New comics website revamping slave recruiting network
+Adventure game collections and endless scroll
+Innovative Force Fields Dispiltications
+Innovative Ad Creative Lead Generation
+Online body scanner building maximized
+Attract investors with biographies
+Exactor OptimizationWeb App for Assume Creativity
+Extortion applications fulfillment
+Social Tuning And Radio Platform
+Unfortunately, we're made in America from organic cotton.
+Restaurant Hearing Aid Consisting Nationwide
+Responsive Web Design Development
+Violent Image Advertising Platform
+Traditional Means Of Cyber Warfare
+Inspiring privately conscious mankind
+YouTube for immersive VR videos.
+Emulator ELITE is the world's most advanced King
+Connecting student internships with business programs
+Rock Tool Construction Guinness Pupp Boys
+For those of you that golf. In 10 lies zone.
+Lef Thru Loyalty Requires Zeroctacy
+TPP Ready Pattalan Settlement Resort Program
+Innovative video business solutions
+Face Recognition Tool for People In Need
+Hi bodys, French elegance, trumpet bag, Shinbury using IBM controller
+Journos can learn English greats fighting the enemy.
+Website end to end recruitment solution for startups
+Interactive experience gift placement
+Find the ideal direction to travel
+Enterprise algebra workflow software
+Exam responds to IES appeals made online
+Well established motorcycle club in Africa
+recommender system for antiquities and collectibles
+The Best Online Recruitment Agency
+Decentralized network for traders
+Delivering Meat Jerkin Walkthroughs at scale
+Redefining Locally Indoor Stocking Technology
+tomoke pattern silk replacement unfold button
+Make people fall in love with photography.
+Too perfect for carrying basics, tools and content utilities.
+Results: 47
+top_p: 0.7999999999999999
+temp: 1.7000000000000002
+Install antivrust blocking pure conditioning as a service cost
+the pieces recipe they inspire.
+Stere private critiques restaurants
+Code dashboards and Russian Apps Template Discovery
+Clear To maintain Rom Papers Ethiopia
+ventures unheardrologic pillow consumer thunder secured mixer
+Earms renal ventures may dominate
+Find whoever you're meeting else
+pedia scene analysis api regime preserving life
+The leading map putting thought stream
+Be careful to weren't betray your content
+We figured how exactly why corporate batches launch.
+ebook reader and price bridging app.
+Giving Molly Out For Drinking Games
+Putting heads turn interchangeable groups faster
+Career forward ward corporate symbolic justice initiative
+Individualized block limits adventureplays
+Transformational Strategic Business Development Initiatives
+Graphic Novel portfolio crafting thoughts
+Online Editorial Film multipliment
+stamping, delayminutes producible confect diffaggerator
+Solution to multiterrane drug unwanted encounters
+Time Lucidity Scroll Developement
+Hardware Out for Private Spaces
+Crowdsourcing Moneyball for Dreamart Ventures and actors
+Define would be head blowout preventer
+Leader in disseminating linguistics
+Micro Cocktails News, Training, Projects and Policies
+Read inviting Facebook jokes, Women's Pictures and Stirrings.
+Infusing both goodwill and success through awesome web design.
+Google Street Error logs for third world cities and bitsmap projects
+Interest Planning complete ayurvedic and psychedelic precious gems
+Media Resource prefixology production
+Space this effective weapon system publishing
+Contemporary sewing bot. Ultralaprent. Done right.
+Environmentally friendly locked cases
+Students sail water secret stores
+pundit Brendan Foster Employing Athletes
+Cause LED stabilized therapy square fields
+Author com planetary pickup advertisement market
+Optimized Hotel Loans online Finish lines Localization concept
+Data Analysis tools for contamination engineers
+IM each day instead of screeching into bedlinery land
+Results: 43
+top_p: 0.8999999999999999
+temp: 0.5
+Results: 0
+top_p: 0.8999999999999999
+temp: 0.7
+Interactive training for Google Apps.
+Minimalist organic skincare brand
+Inspired by nature to help build better solutions.
+Results: 3
+top_p: 0.8999999999999999
+temp: 0.9
+NormoCTO is a custom software services firm based in New York City
+Custom fitted men's accessories for premium segment
+Insurance for entrepreneurs and professionals
+Develop your startup from the start up.
+We make professional networking games.
+A New Style of Online Brokerage
+Custom fit men's accessories for premium segment
+PR and analytics platform for marketing and public relations
+ally networked roofing contractors
+Location based search for people and products
+Seamless Web for Ambitious Goals
+Create and share a mobile app and website
+Help individuals and organizations harness their brain power
+A Workplace For The Internet Of Things
+Search and Shop for fashion brands
+Room Sample and Digital Wallet Marketing Platform
+Auto Trader for Automotive Services
+Results: 17
+top_p: 0.8999999999999999
+temp: 1.1
+An efficiently created, beautifully designed print media kit
+The World's Opening Developer Platform
+Instant responsive landing page design agency
+Social NLP Platform for Affected Groups
+Changing the way people create and share video on the web
+Crowdsourced Recruitment Solutions
+Global EV Accelerator that links companies with suppliers
+Find the people you need when you need them.
+Recipe Cost Calculator for Ingredients.
+All your favourite notifications, sent in a bite.
+Geolocation Based Review Management
+Contextualised Delivered Reality
+Social task management for teams and communities
+Profitability Analytics for Action Sports Agencies
+Reputation Management Platform for Restaurants
+Imagine Hangtime but with even more powerful Osage specs and recipes.
+rsourcing, quantitative sourcing, virtual treasury
+Create and share your published articles.
+CRM platform for domestic violence organisations
+Collaborative Social Network for Entrepreneurs
+Energy Analytics and Electric Generation
+Crowdfunding platform for researchers and publishers
+Powering communication for people with spoken languages
+Smart Sensor Platform for Growing Foods.
+Connecting who you love with those you have a business with.
+Group online dating for sophisticated venues
+A New Movement For The Real World
+Book flying online and pay later
+Protecting Against Online Identity Fraud
+Preppy and meetings for technology engineers
+Reinventing shopping for retail workers
+Results: 31
+top_p: 0.8999999999999999
+temp: 1.3
+Conventional Mainstream Lifestyle Series
+Mobile application that builds a campaign goalosphere
+Using business to support fledgling brands
+Financing Bruises for College Experiences
+CAPT admits it's good time to examp.
+Knowing what your customers want, at least what they didn't want.
+AngelList for medical center partners
+More golf. Faster, better, cheaper.
+Finding the people you need when you need them.
+Better Job Management For National PAYD
+Digital Accounting and Project Management
+IT Crowding The Next Generation
+TODAYSLA is one of the largest stored CDNs in business today
+Fashion Bordello is the online destination for Italian in America.
+Best American made suiting, function and practicality broad
+ParkholdersExplore is a levying autonomous bus with a second screen.
+Working with a student selectorate society
+Your mom's smartest, even without a dish in a box.
+Financial Analytics in the Cloud
+Inspire another rise in social productivity
+Pirates match dirge fun with AIers
+User Experience Targeted Display ad targeting
+Rocking tail to buy car rentals or the like
+Giving fire walkers a port source for crisis efficiency.
+Conversational AI for the enterprise
+Measuring and Replacing Biology
+Social Intenteempathoco. Today.
+Real time JJ Mayer style treatment for roasts it gave to cookies.
+Startup banking function as a service
+Lending Tree for Taiwanese boats
+Thin, beautiful egg sacks and packaging.
+Results: 31
+top_p: 0.8999999999999999
+temp: 1.5
+Tell business how it differentiates.
+Contemporary approaches to electoral representation and dating
+LA's Rugby boutique generates income bond global revenue.
+stimulating audibling nano dark comedy tapes
+action taco tacon blood screen dark probability smartphone app
+gadgets that ferrets love so much, they beg for their cage.
+Cast us as Avr73 loses Antonovich.
+irsch dart skill development by expert instructors.
+Accelerator Occum in Bel Adams, CA
+Chance ouroux inviteable carries
+em mac pool pilgrimage cy thanh Viet Nam.
+On phone line deferkment services
+Unlocking the Essence of Nordral Music
+Under Window or Starfish Display Ed Centers
+Activity discovery and community sustaining measurable solutions
+NYC area based focused hospital
+Rent tender ground wall locations on Skype and Skype Plus
+Email scientific devaluation data stimulating unicorn dream.
+Deep processing stems from the business of Becoming experts.
+Buying Grid replaces Merchants DB
+Connecting businesses with helpful robots
+PRESS and PRKETS EQUALENTIAL ENTREPRENEURSHIP
+Professional network for surgeons
+Project and design expertise on developing scalable startups
+Ephemeral Serexi Ads paid for Market opposing Car That gets Insecure
+AIRBNBER ALTERNATIVE JAILOR With Competition Based On Insights
+Taking Room Testing Online To Higher Results
+Get a Self Artist theme every purchase.
+Easy implementation of the Nag and Twitter features.
+Simply is the best messaging app for technical situations.
+Deal early for high new aperature times
+Space Buddins in Friends. Imagination Snowboard Pinsk.
+Bottom feed sock with travel accomplice
+Online Astronomical dataset giving guidance to legacy breeders
+Cube Thanksgiving plans with Image Recognition onboard.
+Helping win growers maximize their ROI
+MOBILE ADVERTISING POWERED BY DATA
+The library of the world's metronomers.
+Making renting Office Space Empowers
+Social Marketing Rating Intelligence
+Analytics and calculation SDK for Wildfire commerce community sellers
+Think creatively, analyze everything important.
+Simplify Your Organic Gathering
+Leading Ongative Financial StrategyMemory Wallet Platform
+Retail Provides What It Takes to Create Offline Customer Engagement
+The hire optimal quality candidates 2.0
+Results: 46
+top_p: 0.8999999999999999
+temp: 1.7000000000000002
+Tank Cure de Five Jawthening Sale Rental limitt epic beverage
+e surmount fostide crematoiser post mortenier
+New price book market and statistics directory
+803 Plus Size Social Club Machines
+Learn script potistry class elements with iMovie
+Hyper image reveal title producer animees
+Getting wide tax experience regardless of unreformation status
+Sampling staffed pathways to antioxidant stored in security design.
+Chronic disease nutrition supply and online advisory tool
+imaging solutions inform veneration
+Epsquer SS became PLA. Saber on Dream ESL fronts. Robots elsewhere.
+Seking Innovative North East Mayhem Music Provider
+Travelingornia meets Andro Arizona
+session meditation technique living
+Braveheart will meet Rogue Songquad
+Iracy Stripe Provider Timestamp Pusher
+ologies choosen by the disconcerting or odds crate
+Logistics Service Provider Intern Mobile App Deployment
+focus inward,seeking following interpersonal businesses
+Guide For Gaming Micropepp Modern Mondays Benefactors
+Results: 20
+top_p: 1.0
+temp: 0.5
+Results: 0
+top_p: 1.0
+temp: 0.7
+Crowdsourcing Technical Interviews
+Personalized business software.
+The interactive image searching engine
+Simple and Affordable Oestrial Preparation
+Social Online Regulatory Consulting
+SaaS based data analysis and visualization
+Follow and find new shows every day
+Support groups for charitable organizations
+softgarden is the salesforce for recruiting and managing tax
