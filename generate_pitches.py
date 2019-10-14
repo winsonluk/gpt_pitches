@@ -36,3 +36,7 @@ for _ in range(10000):
                     line = line[:-1]
                 with open('io/pitches.txt', 'a+') as g:
                     g.write(line + '\n')
+                del line
+                del line_arr
+        del f
+        del content
