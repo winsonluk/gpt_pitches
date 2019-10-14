@@ -7,8 +7,10 @@ import gpt_2_simple as gpt2
 sess = gpt2.start_tf_sess()
 gpt2.load_gpt2(sess)
 
-for _ in range(10000):
-    gc.collect()
+for i in range(10000):
+#    if i % 10 == 0:
+#        sess = gpt2.reset_session(sess)
+#        gpt2.load_gpt2(sess)
     with open('io/original_pitches.txt') as out:
         f = io.StringIO()
         with redirect_stdout(f):
@@ -36,7 +38,8 @@ for _ in range(10000):
                     line = line[:-1]
                 with open('io/pitches.txt', 'a+') as g:
                     g.write(line + '\n')
-                del line
-                del line_arr
+            del line
+            del line_arr
         del f
         del content
+    gc.collect()
