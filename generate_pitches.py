@@ -1,8 +1,6 @@
-import atexit
 import gc
 import io
 import re
-import signal
 
 from contextlib import redirect_stdout
 import gpt_2_simple as gpt2
@@ -47,9 +45,5 @@ def generate_pitches():
             del f
             del content
         gc.collect()
-
-atexit.register(generate_pitches)
-signal.signal(signal.SIGTERM, generate_pitches)
-signal.signal(signal.SIGINT, generate_pitches)
 
 generate_pitches()
